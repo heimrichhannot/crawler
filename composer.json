@@ -1,5 +1,5 @@
 {
-    "name": "spatie/crawler",
+    "name": "heimrichhannot/crawler",
     "description": "Crawl all internal links found on a website",
     "homepage": "https://github.com/spatie/crawler",
     "license": "MIT",
@@ -24,7 +24,6 @@
         "spatie/browsershot": "^2.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.4",
         "larapack/dd": "^1.1"
     },
     "autoload": {
