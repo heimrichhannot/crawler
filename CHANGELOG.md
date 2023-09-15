@@ -1,6 +1,13 @@
 # Changelog
 
-All notable changes to `spatie/crawler` will be documented in this file.
+Changes to `heimrichhannot/contao-crawler`:
+
+## [2.8.0] - 2023-09-15
+- Changed: allow guzzlehttp/guzzle 7
+- Changed: allow tightenco/collect up to 9 (fix warnings in php 8)
+
+
+All notable changes to `spatie/crawler` :
 
 ## 2.7.1 - 2017-12-13
 - allow symfony 4 crawler
