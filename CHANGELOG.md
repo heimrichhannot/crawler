@@ -2,10 +2,12 @@
 
 Changes to `heimrichhannot/contao-crawler`:
 
+## [2.8.1] - 2023-09-15
+- Fixed: tightenco/collect version contraint
+
 ## [2.8.0] - 2023-09-15
 - Changed: allow guzzlehttp/guzzle 7
 - Changed: allow tightenco/collect up to 9 (fix warnings in php 8)
-
 
 All notable changes to `spatie/crawler` :
 
