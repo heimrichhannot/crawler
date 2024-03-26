@@ -2,6 +2,9 @@
 
 Changes to `heimrichhannot/contao-crawler`:
 
+## [2.8.2] - 2024-03-26
+- Changed: symfony-crawler now up to v6
+
 ## [2.8.1] - 2023-09-15
 - Fixed: tightenco/collect version contraint
 
